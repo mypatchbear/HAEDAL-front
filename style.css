@@ -1,0 +1,22 @@
+* {
+	background-color: beige;
+}
+
+li {
+	color: rgb(162, 110, 110);
+}
+
+#special {
+	color: rgb(207, 82, 103);
+}
+
+.pink {
+    width: 300px;
+	background: pink;
+}
+
+.yellow {
+	width: 300px;
+	height: 40px;
+	background: rgb(227, 227, 165);
+}
